@@ -25,7 +25,6 @@ I'm interested in Data Science, Machine Learnning and biomedical field.<br>
 I aspire to be a data scientist.
 
 # Contact Me:
-Connect with Me.
 <div align="center">
  <a href="mailto:mariamturkey2010@gmail.com">
  <img align="center" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" /> </a>
