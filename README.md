@@ -105,8 +105,6 @@ If you want to reach out to me about anything, just send me😃.
 <br>
 
 # 📊 Github Stats:
-[![MariamTurky's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MariamTurky&theme=dracula)(https://github.com/MariamTurky/github-readme-activity-graph)
-<br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariamTurky&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MariamTurky&theme=radical)
