@@ -1,7 +1,7 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30px" height="30px" />, I'm Mariam Turky </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Mariam Turky </h1>
 
 <p align="center">
-<img  src="https://user-images.githubusercontent.com/81252117/211005104-2cc07f64-dba7-4e8e-8c98-518e3706b942.gif" width="250" height="200" />
+<img  src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" height="200" />
 <br>
 <img  src="https://readme-typing-svg.herokuapp.com?font=Times&size=100&color=207195&center=true&width=1500&height=400&lines=Welcome+to+my+GitHub+profile" width="550" height="100" />
 </p>
