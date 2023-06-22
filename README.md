@@ -126,15 +126,6 @@ If you want to reach out to me about anything, just send me😃.
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariamTurky&theme=tokyonight">
 </p> -->
  
-<br>
-
-<div align="center" >
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=MariamTurky&theme=tokyonight&margin-w=15" /> -->
-<div>
-   
-[![trophy](https://github-profile-trophy.vercel.app/?usernameMariamTurky&theme=radical&column=7)](https://github.com/Naderab/github-profile-trophy)
-   
-<br>
  
 #### Profile Views
  
