@@ -105,17 +105,18 @@ If you want to reach out to me about anything, just send me😃.
 <br>
 
 # 📊 Github Stats:
-[![MariamTurky's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MariamTurky&theme=dracula)](https://github.com/MariamTurky/github-readme-activity-graph)
+[![MariamTurky's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MariamTurky&theme=dracula)(https://github.com/MariamTurky/github-readme-activity-graph)
 <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariamTurky&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MariamTurky&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MariamTurky&theme=radical&utcOffset=8)
    
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MariamTurky&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=MariamTurky&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MariamTurky&show_icons=true&theme=radical)](https://github.com/MariamTurky/github-readme-stats)
+[![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=MariamTurky&theme=radical)](https://github.com/MariamTurky/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamTurky&exclude_repo=statistics-cc-hypothesis-testing,stm32f401-429xx-projects,STM32F401CC,STM32F4xx-DMA,sound-equalizer&hide=html,jupyter%20notebook&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamTurky&exclude_repo=statistics-cc-hypothesis-testing,stm32f401-429xx-projects,STM32F401CC,STM32F4xx-DMA,sound-equalizer&hide=html,jupyter%20notebook&layout=compact&theme=radical&langs_count=10)](https://github.com/MariamTurky/github-readme-stats)
+
 
 <!-- <p align="center">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariamTurky&theme=tokyonight">
