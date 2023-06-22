@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Mariam Turky </h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30px" height="30px" />, I'm Mariam Turky </h1>
 
 <p align="center">
 <img  src="https://user-images.githubusercontent.com/81252117/211005104-2cc07f64-dba7-4e8e-8c98-518e3706b942.gif" width="250" height="200" />
@@ -18,14 +18,14 @@ aboutMe = {
 }
 ```
 
-# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me: 
+# About Me: 
 
 A 3rd-year biomedical engineering student at faculty of engineering Cairo university.<br>
 I'm interested in Data Science, Machine Learnning and biomedical field.<br>
 I aspire to be a data scientist.
 
-# <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Contact Me:
-If you want to reach out to me about anything, just send me😃.
+# Contact Me:
+Connect with Me.
 <div align="center">
  <a href="mailto:mariamturkey2010@gmail.com">
  <img align="center" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" /> </a>
