@@ -108,8 +108,7 @@ Aspiring to build innovative AI solutions and grow as a Data Scientist.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariamTurky&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MariamTurky&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MariamTurky&theme=radical&utcOffset=8)
-   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MariamTurky&show_icons=true&theme=radical)](https://github.com/MariamTurky/github-readme-stats)
+
 
 
 <!-- <p align="center">
