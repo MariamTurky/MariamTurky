@@ -110,9 +110,6 @@ Aspiring to build innovative AI solutions and grow as a Data Scientist.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MariamTurky&theme=radical&utcOffset=8)
    
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MariamTurky&show_icons=true&theme=radical)](https://github.com/MariamTurky/github-readme-stats)
-[![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=MariamTurky&theme=radical)](https://github.com/MariamTurky/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamTurky&exclude_repo=statistics-cc-hypothesis-testing,stm32f401-429xx-projects,STM32F401CC,STM32F4xx-DMA,sound-equalizer&hide=html,jupyter%20notebook&layout=compact&theme=radical&langs_count=10)](https://github.com/MariamTurky/github-readme-stats)
 
 
 <!-- <p align="center">
@@ -120,14 +117,8 @@ Aspiring to build innovative AI solutions and grow as a Data Scientist.
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MariamTurky&theme=tokyonight">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MariamTurky&theme=tokyonight&utcOffset=8">
  <img src="http://github-readme-streak-stats.herokuapp.com?user=MariamTurky&theme=tokyonight">
- <img src="https://github-readme-stats.vercel.app/api?username=MariamTurky&show_icons=true&theme=tokyonight">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariamTurky&theme=tokyonight">
 </p> -->
- 
- 
-#### Profile Views
- 
-![GitHub Views](https://profile-counter.glitch.me/MariamTurky/count.svg)
+
 
 <!--
 **MariamTurky/MariamTurky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
