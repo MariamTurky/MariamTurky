@@ -11,18 +11,18 @@
 ```Python
 aboutMe = {
    "name": "Mariam Turky",
-   "age": 21,
+   "age": 24,
    "home": "Cairo, Egypt",
-   "education": "Senior Biomedical Engineering at Cairo University",
+   "education": "Systems and Biomedical Engineering Graduate from Cairo University",
    "languages": ["Arabic", "English", "French"]
 }
 ```
 
 # About Me: 
 
-A 3rd-year biomedical engineering student at faculty of engineering Cairo university.<br>
-I'm interested in Data Science, Machine Learnning and biomedical field.<br>
-I aspire to be a data scientist.
+A Biomedical Engineering graduate from the Faculty of Engineering, Cairo University.<br>
+AI Engineer interested in Data Science, Machine Learning, and biomedical applications.<br>
+Aspiring to build innovative AI solutions and grow as a Data Scientist.
 
 # Contact Me:
 <div align="center">
